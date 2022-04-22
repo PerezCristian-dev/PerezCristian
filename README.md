@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### **Having fun with these stack 👨🏽‍💻**
+### **Developer in progress 👨🏽‍💻**
     
 <br/>
 <div>
