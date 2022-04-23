@@ -11,7 +11,7 @@
 <div align="center">
 
 ### **Developer on the making 👨🏽‍💻**
-    <br/>
+
 <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  />
     <br/>
 ### Here you will find the technologies that I work with and the new technologies I'm currently learning.  
