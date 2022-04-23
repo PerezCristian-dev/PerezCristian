@@ -1,4 +1,4 @@
-<h2> <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0 width="30" /> Welcome to my Git! </h2>
+<h2> <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0 width="50" /> Welcome to my Git! </h2>
 <p align="center">
     
     
