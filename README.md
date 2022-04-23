@@ -1,4 +1,4 @@
-<h2> <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0 width="50" /> Welcome to my Git! </h2>
+<h2>  Welcome to my Git! </h2>
 <p align="center">
     
     
@@ -46,6 +46,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  />
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
