@@ -1,4 +1,4 @@
-<h2> <img src="https://29.filelu.com/i/00025/bm562gxbn009_t.jpg" width="30" /> Welcome to my Git! </h2>
+<h2> <img src="https://29.filelu.com/i/00025/bm562gxbn009_t.jpg" border=0 width="30" /> Welcome to my Git! </h2>
 <p align="center">
     
     
