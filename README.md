@@ -11,6 +11,8 @@
 <div align="center">
 
 ### **Developer on the making 👨🏽‍💻**
+    
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" width = "100"/>
 ### Here you will find the technologies that I work with and the new technologies I'm currently learning.  
     
 <br/>
@@ -29,7 +31,7 @@
 
 <!-- <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> -->
 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
 </div>
 <br/>
 <div>
