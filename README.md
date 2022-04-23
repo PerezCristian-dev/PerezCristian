@@ -1,4 +1,4 @@
-<h2> <img src="https://c.tenor.com/qLGKp2pB9PcAAAAC/konata-thumbs-up.gif" width="30" /> Hi, welcome! </h2>
+<h2> <img src="https://c.tenor.com/qLGKp2pB9PcAAAAC/konata-thumbs-up.gif" width="30" /> Welcome to my Git! </h2>
 <p align="center">
 <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 </p>
@@ -7,7 +7,8 @@
 
 <div align="center">
 
-### **Developer in progress 👨🏽‍💻**
+### **Developer on the making 👨🏽‍💻**
+### Here you will find the technologies that I work with and the new technologies I'm currently learning.  
     
 <br/>
 <div>
