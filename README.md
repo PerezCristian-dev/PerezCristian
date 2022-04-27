@@ -12,9 +12,9 @@
 
 ### **Developer on the making 👨🏽‍💻**
 
-<img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  witdh=50px/>
+<img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
     <br/>
-Here you will find the technologies that I work with and the new technologies I'm currently learning.  
+I'm currently learning all this technologies.  
     
 <br/>
 <div>
@@ -33,22 +33,9 @@ Here you will find the technologies that I work with and the new technologies I'
 <!-- <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> -->
 
 
-</div>
-<br/>
-<div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-<br/>
-
-### and more >w<
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+    </div>
 
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
