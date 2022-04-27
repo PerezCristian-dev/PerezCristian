@@ -12,7 +12,7 @@
 
 ### **Developer on the making 👨🏽‍💻**
 
-<img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  witdh=100px/>
+<img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  witdh=50px/>
     <br/>
 Here you will find the technologies that I work with and the new technologies I'm currently learning.  
     
