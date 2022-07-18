@@ -12,8 +12,7 @@
    <img src="[https://ibb.co/XtcykQj](https://ibb.co/q9Zsrvz"><img src="https://i.ibb.co/nfWcLFT/Portafolio.png)" border=0 height="300"/>
    <img src="https://i.ibb.co/fHj8Ggq/e-commer-Medalla.png" border=0  height="300"/>
 
-  
-    <br/>
+
 I'm currently learning all these technologies.    
 <br/>
 <div>
