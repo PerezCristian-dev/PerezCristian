@@ -8,7 +8,8 @@
 
 ### **Developer on the making 👨🏽‍💻**
 
-<img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
+   <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
+   <img src="https://i.ibb.co/XbnD9ZX/Encriptador.png" border=0  height="300"/>
    <img src="[https://ibb.co/XtcykQj](https://ibb.co/q9Zsrvz"><img src="https://i.ibb.co/nfWcLFT/Portafolio.png)" border=0 height="300"/>
    <img src="https://i.ibb.co/fHj8Ggq/e-commer-Medalla.png" border=0  height="300"/>
 
