@@ -12,7 +12,7 @@
    <img src="[https://ibb.co/XtcykQj](https://ibb.co/q9Zsrvz"><img src="https://i.ibb.co/nfWcLFT/Portafolio.png)" border=0 height="300"/>
    <img src="https://i.ibb.co/fHj8Ggq/e-commer-Medalla.png" border=0  height="300"/>
 
-   <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" border=0 height ="250" style= transparency: "10"/>
+  
     <br/>
 I'm currently learning all these technologies.    
 <br/>
