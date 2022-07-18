@@ -9,8 +9,8 @@
 ### **Developer on the making 👨🏽‍💻**
 
 <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
-   <img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645571154Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_esp&utm_medium=email&utm_source=RD+Station" border=0  height="300"/>
-   <img src="[https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1650485464insignia.png?utm_campaign=alura_latam_-_challenge_email_projeto_4_esp&utm_medium=email&utm_source=RD+Station)" border=0  height="300"/>
+   <img src="https://ibb.co/XtcykQj" border=0  height="300"/>
+   <img src="https://ibb.co/q9Zsrvz" border=0  height="300"/>
    <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
    <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" border=0 height ="250" style= transparency: "10"/>
     <br/>
