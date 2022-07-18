@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### **Developer on the making 👨🏽‍💻**
+### **👨 Developer on the making 👨🏽‍💻**
 
    <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="250"/>
    <img src="https://i.ibb.co/XbnD9ZX/Encriptador.png" border=0  height="250"/>
