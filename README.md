@@ -9,7 +9,8 @@
 ### **Developer on the making 👨🏽‍💻**
 
 <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
-   <img src="https://ibb.co/XtcykQj" border=0  height="300"/>
+   <img src="[https://ibb.co/XtcykQj](https://ibb.co/q9Zsrvz"><img src="https://i.ibb.co/nfWcLFT/Portafolio.png)" border=0 height="300"/>
+   <img src="https://i.ibb.co/fHj8Ggq/e-commer-Medalla.png" border=0  height="300"/>
    <img src="https://ibb.co/q9Zsrvz" border=0  height="300"/>
    <img src="https://i.ibb.co/1r8tHpr/cms-files-10224-1644515319-BADGE-2.png" border=0  height="300"/>
    <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" border=0 height ="250" style= transparency: "10"/>
